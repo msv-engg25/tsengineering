@@ -125,7 +125,7 @@ function initFooter() {
                     <div class="footer-contact-item">
                         <i class="fas fa-phone-alt"></i>
                          <p>
-                         <a href="tel:+919810338686"style="color: white;">+91 98103 38686</a><br>
+                         <a href="tel:+919911338686"style="color: white;">+91 99113 38686</a><br>
                          <a href="tel:+919810743439"style="color: white;">+91 98107 43439</a>
                          </p>
                     </div>
