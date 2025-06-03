@@ -86,12 +86,12 @@ function initLeadershipPreview() {
         {
             name: 'Narinder Pal Singh',
             title: 'Chairman',
-            image: 'chairman.jpg'
+            image: 'Chairman.jpg'
         },
         {
             name: 'Jasdeep Kaur',
             title: 'Director',
-            image: 'director.jpg'
+            image: 'Director.jpg'
         }
     ];
     
