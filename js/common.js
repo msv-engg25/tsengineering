@@ -35,7 +35,7 @@ function initHeader() {
             <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 0.5rem;">
                 <img src="logo3.png" alt="Logo" style="height: 40px; width: auto;" />
                 <div class="logo-text">
-                    T.S ISPAT
+                    T. S. ISPAT
                     <span>Private Limited</span>
                 </div>
             </a>
